@@ -1,6 +1,7 @@
 require 'spree_core'
 require 'solidus_auth_devise'
 require 'omniauth-twitter'
+require 'omniauth-instagram'
 require 'omniauth-facebook'
 require 'omniauth-github'
 require 'omniauth-google-oauth2'

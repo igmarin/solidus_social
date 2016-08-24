@@ -2,6 +2,7 @@ module SolidusSocial
   OAUTH_PROVIDERS = [
     %w(Facebook facebook),
     %w(Twitter twitter),
+    %w(Instagram instagram),
     %w(Github github),
     %w(Google google_oauth2),
     %w(Amazon amazon)
